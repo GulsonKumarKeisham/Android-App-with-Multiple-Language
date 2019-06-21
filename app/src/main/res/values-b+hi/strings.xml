@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Multiple language app</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_language">भाषा</string>
+    <string name="prompt_welcome">स्वागत हे! यह कई भाषा का समर्थन करने के प्रदर्शन के लिए एक नमूना Android अनुप्रयोग है।</string>
+</resources>
